@@ -15,7 +15,7 @@ export const Hero = () => {
                             target="_blank"
                             >
                                 <span className="relative inline-flex items-center">
-                                    My Socials{" "}
+                                    My LinkedIn{" "}
                                     <span className="tracking-normal text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
                                         -&gt;
                                     </span>
