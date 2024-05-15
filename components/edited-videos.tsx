@@ -1,8 +1,12 @@
 import { Separator } from "./ui/separator"
 import YouTube from 'react-youtube';
 import Image from "next/image";
-import project01 from '../public/project-1.png'
-import project02 from '../public/project-2.png'
+import project01 from '../public/pro-1.png'
+import project02 from '../public/pro-2.png'
+import project03 from '../public/pro-3.png'
+import project04 from '../public/pro-4.png'
+import project05 from '../public/pro-5.png'
+import project06 from '../public/pro-6.png'
 
 export const EditedVideos = () => {
     const videoOptions = {
@@ -30,8 +34,10 @@ export const EditedVideos = () => {
                     <div className="mt-10 grid sm:grid-cols-1 lg:grid-cols-2 gap-5">
                        <Image src={project01} alt="project one"/>
                        <Image src={project02} alt="project one"/>
-                       <Image src={project02} alt="project one"/>
-                       <Image src={project01} alt="project one"/>
+                       <Image src={project03} alt="project one"/>
+                       <Image src={project04} alt="project one"/>
+                       <Image src={project05} alt="project one"/>
+                       <Image src={project06} alt="project one"/>
                     </div>
                 </div>
             </div>

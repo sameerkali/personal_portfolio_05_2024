@@ -32,7 +32,7 @@ export const LandingPage = () => {
 
             {/* Shorts Edited Videos*/}
 
-            <EditedShorts />
+            {/* <EditedShorts /> */}
 
             {/* Channels Worked With*/}
             <Channels />
