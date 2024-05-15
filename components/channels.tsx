@@ -5,28 +5,28 @@ import { Avatar } from "@mui/material"
 export const Channels = () => {
     const channels = [
         {
-            logo: '/kurmato_logo.png',
+            logo: '/kurmato_logo_shott.png',
             name: 'Kurmato',
             subs: 'Dec 23 - now',
             link: 'https://kurmato.com/'
         },
         {
-            logo: '/4achievers_logo.webp',
+            logo: '/4achievers_logo_shot.webp',
             name: '4Archivers',
             subs: 'July 23 - Dec 23',
             link: 'https://4archivers.com/'
         },
         {
-            logo: '/abhiwan_logo.webp',
+            logo: '/abhiwan_logo_shortt.png',
             name: 'Abhiwan Technology',
             subs: 'May 23 - July 23',
-            link: 'https://www.youtube.com/@Dankieft'
+            link: 'https://abhiwan.com/'
         },
         {
-            logo: '/dahua_logo.png',
+            logo: '/dahua_logo_shortt.png',
             name: 'Dahua Technology IN',
             subs: 'Oct 22 - Apr 23',
-            link: 'https://www.youtube.com/@Joe_Leech'
+            link: 'https://dahua.com/'
         },
     ]
     // Avatar Styles
