@@ -3,7 +3,7 @@ import { Separator } from "./ui/separator";
 import { Avatar } from "@mui/material";
 import { ArrowRight } from "lucide-react";
 
-export const Channels = () => {
+export const Companys = () => {
   const channels = [
     {
       logo: "/kurmato_logo_shott.webp",

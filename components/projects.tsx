@@ -9,7 +9,7 @@ import project05 from "../public/pro-5.webp";
 import project06 from "../public/pro-6.webp";
 import Link from "next/link";
 
-export const EditedVideos = () => {
+export const Projects = () => {
 
   const project01_link = "https://filmsloth.netlify.app/";
   const project02_link = "https://indie-gems-portal.vercel.app/";
