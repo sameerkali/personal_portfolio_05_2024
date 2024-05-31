@@ -6,7 +6,7 @@ import { ArrowRight } from "lucide-react";
 export const Channels = () => {
   const channels = [
     {
-      logo: "/kurmato_logo_shott.png",
+      logo: "/kurmato_logo_shott.webp",
       name: "Kurmato",
       subs: "Dec 23 - now",
       link: "https://kurmato.com/"
@@ -18,13 +18,13 @@ export const Channels = () => {
       link: "https://4archivers.com/"
     },
     {
-      logo: "/abhiwan_logo_shortt.png",
+      logo: "/abhiwan_logo_shortt.webp",
       name: "Abhiwan Technology",
       subs: "May 23 - July 23",
       link: "https://abhiwan.com/"
     },
     {
-      logo: "/dahua_logo_shortt.png",
+      logo: "/dahua_logo_shortt.webp",
       name: "Dahua Technology IN",
       subs: "Oct 22 - Apr 23",
       link: "https://dahua.com/"

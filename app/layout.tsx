@@ -12,6 +12,8 @@ export default function RootLayout({
 }>) {
   return (
     <>
+      <html lang="en">
+
       <Head>
         <title>{"Sameer Faridi"}</title>
         <meta name="description" content={"Created by Sameer Faridi"} />
@@ -23,7 +25,6 @@ export default function RootLayout({
           }
         />
       </Head>
-      <html lang="en">
         <body className={inter.className}>{children}</body>
       </html>
     </>

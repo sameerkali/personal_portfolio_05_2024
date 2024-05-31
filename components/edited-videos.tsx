@@ -1,12 +1,12 @@
 import { Separator } from "./ui/separator";
 import YouTube from "react-youtube";
 import Image from "next/image";
-import project01 from "../public/pro-1.png";
-import project02 from "../public/pro-2.png";
-import project03 from "../public/pro-3.png";
-import project04 from "../public/pro-4.png";
-import project05 from "../public/pro-5.png";
-import project06 from "../public/pro-6.png";
+import project01 from "../public/pro-1.webp";
+import project02 from "../public/pro-2.webp";
+import project03 from "../public/pro-3.webp";
+import project04 from "../public/pro-4.webp";
+import project05 from "../public/pro-5.webp";
+import project06 from "../public/pro-6.webp";
 import Link from "next/link";
 
 export const EditedVideos = () => {
