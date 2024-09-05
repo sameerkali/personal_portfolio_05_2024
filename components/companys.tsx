@@ -57,7 +57,7 @@ export const Companys = () => {
         {channels.map((channel, index) => (
           <div key={index} className="mt-10 flex">
             <div className="flex flex-col items-center">
-              <Link href={`${channel.link}`}>
+              <Link target="_blank" href={`${channel.link}`}>
                 <Avatar src={channel.logo} alt={channel.name} sx={style} />
               </Link>
               <h1 className="font-semibold text-xl mt-4">{channel.name}</h1>
