@@ -15,7 +15,7 @@ export const Companys = () => {
       logo: "/4achievers_logo_shot.webp",
       name: "4Archivers",
       subs: "July 23 - Dec 23",
-      link: "https://4archivers.com/"
+      link: "http://www.4achievers.com/"
     },
     {
       logo: "/abhiwan_logo_shortt.webp",
@@ -27,7 +27,7 @@ export const Companys = () => {
       logo: "/dahua_logo_shortt.webp",
       name: "Dahua Technology IN",
       subs: "Oct 22 - Apr 23",
-      link: "https://dahua.com/"
+      link: "https://www.dahuasecurity.com/in"
     }
   ];
   // Avatar Styles
@@ -69,7 +69,7 @@ export const Companys = () => {
       <Link
         className="w-full px-10  items-center justify-center flex whitespace-nowrap transition duration-150 ease-in-out font-medium rounded py-4 hover:bg-gray-200  text-zinc-900 bg-gradient-to-r from-white/80 via-white to-white/80  group mt-24"
         target="_black"
-        href="https://drive.google.com/file/d/1Jq66HR9BmdXmzFWeq8qxtahDo1conwaU/view?usp=sharing"
+        href="https://drive.google.com/file/d/1cnwrAvfErIkZnMEJ25fmFjCpd-A0-eVX/view?usp=sharing"
       >
         Get My Resume{" "}
         <ArrowRight className="w-3 h-3 tracking-normal text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1" />
