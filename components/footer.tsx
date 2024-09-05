@@ -20,7 +20,7 @@ export const Footer = () => {
             icon: <GitHubIcon className='h-10 w-10'/>
         },
         {
-            href: 'mailto:s.faridi007@gmail.com',
+            href: 'mailto:work.sameerfaridi@gmail.com',
             icon: <EmailIcon className='h-8 w-8'/>
         }
     ]
@@ -36,7 +36,7 @@ export const Footer = () => {
                 ))}
                 
             </div>
-            <p className='text-sm text-slate-100/50'>s.faridi007@gmail.com</p>
+            <p className='text-sm text-slate-100/50'>work.sameerfaridi@gmail.com</p>
             <p className='text-sm text-slate-100/50'>© sameerkali. All rights reserved.</p>
         </div>
     )
