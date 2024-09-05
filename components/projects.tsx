@@ -13,10 +13,10 @@ export const Projects = () => {
 
   const project01_link = "https://filmsloth.netlify.app/";
   const project02_link = "https://indie-gems-portal.vercel.app/";
-  const project03_link = "https://home-harbour.onrender.com/";
+  const project03_link = "https://interview.sameerfaridi.in/"; //remove this
   const project04_link = "https://github-sameerkali.onrender.com/";
   const project05_link = "https://fithub-kappa.vercel.app/";
-  const project06_link = "https://explorer-mount.vercel.app/";
+  const project06_link = "https://explorer-mount.vercel.app/"; //remove this
 
   return (
     <div className="text-center">
@@ -29,15 +29,16 @@ export const Projects = () => {
 
       <div className="flex justify-center">
         <div className="mt-10 grid sm:grid-cols-1 lg:grid-cols-2 gap-5">
+        <Link target="_blank" href={project03_link}>
+            <Image src={project03} alt="project one" />
+          </Link>
           <Link target="_blank" href={project01_link}>
             <Image src={project01} alt="project one" />
           </Link>
           <Link target="_blank" href={project02_link}>
             <Image src={project02} alt="project one" />
           </Link>
-          <Link target="_blank" href={project03_link}>
-            <Image src={project03} alt="project one" />
-          </Link>
+         
           <Link target="_blank" href={project04_link}>
             <Image src={project04} alt="project one" />
           </Link>
