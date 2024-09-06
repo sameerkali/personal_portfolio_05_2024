@@ -69,7 +69,7 @@ export const Companys = () => {
       <Link
         className="w-full px-10  items-center justify-center flex whitespace-nowrap transition duration-150 ease-in-out font-medium rounded py-4 hover:bg-gray-200  text-zinc-900 bg-gradient-to-r from-white/80 via-white to-white/80  group mt-24"
         target="_black"
-        href="https://drive.google.com/file/d/1cnwrAvfErIkZnMEJ25fmFjCpd-A0-eVX/view?usp=sharing"
+        href="https://drive.google.com/file/d/1jZGzfbRUDB9ngtcDtLqvmvhUZoRkXXMg/view?usp=sharing"
       >
         Get My Resume{" "}
         <ArrowRight className="w-3 h-3 tracking-normal text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1" />
