@@ -26,7 +26,7 @@ export const Hero = () => {
                     <h1 className="pb-4 font-extrabold tracking-tight text-transparent text-7xl lg:text-8xl  bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-600 to-cyan-400" data-aos="fade-down">
                         SAMEER FARIDI
                     </h1>
-                    <p className="mb-8 text-lg text-zinc-300/40 font-medium" data-aos="fade-down" data-aos-delay="200">A full-stack web and app developer</p>
+                    <p className="mb-8 text-lg text-zinc-300/40 font-medium" data-aos="fade-down" data-aos-delay="200">A full-stack web and app developer 2+ YOE</p>
                     <div className="flex flex-col items-center max-w-xs mx-auto gap-4 sm:max-w-none  sm:justify-center sm:flex-row sm:inline-flex" data-aos="fade-down"
                     data-aos-delay="400">
                         <Link
