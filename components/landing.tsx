@@ -7,6 +7,7 @@ import { Projects } from "./projects";
 import { Companys } from "./companys";
 import { Calendly } from "./calendly";
 import { Footer } from "./footer";
+import { Projects2 } from "./projects2";
 
 
 export const LandingPage = () => {
@@ -25,6 +26,7 @@ export const LandingPage = () => {
 
             <Hero />
             <Projects />
+            <Projects2 />
             <Companys />
             <Calendly />
           </div>
