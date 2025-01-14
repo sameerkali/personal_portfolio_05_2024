@@ -1,12 +1,13 @@
 import { Separator } from "./ui/separator";
 import YouTube from "react-youtube";
 import Image from "next/image";
-import project01 from "../public/pro-1.webp";
-import project02 from "../public/pro-2.webp";
-import project03 from "../public/pro-3.webp";
-import project04 from "../public/pro-4.webp";
-import project05 from "../public/pro-5.webp";
-import project06 from "../public/pro-6.webp";
+import project01 from "../public/project2/one.webp";
+import project02 from "../public/project2/two.webp";
+import project03 from "../public/project2/three.webp";
+import project04 from "../public/project2/four.webp";
+import project05 from "../public/project2/five.webp";
+import project06 from "../public/project2/six.webp";
+import project07 from "../public/project2/seven.webp";
 import Link from "next/link";
 
 export const Projects2 = () => {
@@ -22,7 +23,7 @@ export const Projects2 = () => {
   return (
     <div className="text-center">
       <h1 className="pb-4 font-bold tracking-tight text-5xl lg:text-6xl ">
-        Websites & Applications I've Created
+        Professional work
       </h1>
       <div className="flex items-center justify-center">
         <Separator className="mt-3 bg-slate-100/20 h-0.5 w-40" />
@@ -49,7 +50,7 @@ export const Projects2 = () => {
             <Image src={project06} alt="Expendifii Website" />
           </Link>
           <Link target="_blank" href={project07_link}>
-            <Image src={project01} alt="Kurmato Website" />
+            <Image src={project07} alt="Kurmato Website" />
           </Link>
         </div>
       </div>
