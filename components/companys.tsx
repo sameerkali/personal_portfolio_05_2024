@@ -13,28 +13,11 @@ export const Companys = () => {
     },
     {
       logo: "/kurmato_logo_shott.webp",
-      name: "Kurmato",
-      subs: "Dec 23 - now",
+      name: "Kurmato (2.2 Year)",
+      subs: "Oct 22 - Set 24",
       link: "https://kurmato.com/"
     },
-    {
-      logo: "/4achievers_logo_shot.webp",
-      name: "4Archivers",
-      subs: "July 23 - Dec 23",
-      link: "http://www.4achievers.com/"
-    },
-    {
-      logo: "/abhiwan_logo_shortt.webp",
-      name: "Abhiwan Technology",
-      subs: "May 23 - July 23",
-      link: "https://abhiwan.com/"
-    },
-    {
-      logo: "/dahua_logo_shortt.webp",
-      name: "Dahua Technology IN",
-      subs: "Oct 22 - Apr 23",
-      link: "https://www.dahuasecurity.com/in"
-    }
+
   ];
   // Avatar Styles
   const style = {
@@ -48,7 +31,6 @@ export const Companys = () => {
       sm: 100, // height on small devices
       md: 150 // default height
     }
-    // You can add more responsive keys (lg, xl) as needed
   };
   return (
     <div className="text-center">
