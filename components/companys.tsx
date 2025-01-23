@@ -13,7 +13,7 @@ export const Companys = () => {
     },
     {
       logo: "/kurmato_logo_shott.webp",
-      name: "Kurmato (2.2 Year)",
+      name: "Kurmato (2 Year)",
       subs: "Oct 22 - Set 24",
       link: "https://kurmato.com/"
     },
