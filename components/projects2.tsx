@@ -8,6 +8,9 @@ import project04 from "../public/project2/four.webp";
 import project05 from "../public/project2/five.webp";
 import project06 from "../public/project2/six.webp";
 import project07 from "../public/project2/seven.webp";
+import project08 from "../public/project2/eight.webp";
+import project09 from "../public/project2/nine.webp";
+import project10 from "../public/project2/ten.webp";
 import Link from "next/link";
 
 export const Projects2 = () => {
@@ -19,6 +22,10 @@ export const Projects2 = () => {
   const project05_link = "https://www.aliroadlines.in/";
   const project06_link = "https://www.expendifii.in/"; 
   const project07_link = "https://www.kurmato.com/";
+  //bytes projects
+  const project09_link = "https://byte-digital.com.au//"; 
+  const project10_link = "https://mathdingo.com/";
+  const project08_link = "https://www.blua.bupa.com.au/";
 
   return (
     <div className="text-center">
@@ -51,6 +58,16 @@ export const Projects2 = () => {
           </Link>
           <Link target="_blank" href={project07_link}>
             <Image src={project07} alt="Kurmato Website" />
+          </Link>
+          {/* byte */}
+               <Link target="_blank" href={project08_link}>
+            <Image src={project08} alt="Kurmato Website" />
+          </Link>
+               <Link target="_blank" href={project09_link}>
+            <Image src={project09} alt="Kurmato Website" />
+          </Link>
+               <Link target="_blank" href={project10_link}>
+            <Image src={project10} alt="Kurmato Website" />
           </Link>
         </div>
       </div>
