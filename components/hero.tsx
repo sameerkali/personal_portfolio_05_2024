@@ -46,7 +46,7 @@ export const Hero = () => {
           data-aos="fade-down"
           data-aos-delay="200"
         >
-          A full-stack web and app developer 2+ YOE
+          A full-stack web and app developer 3 Years of Experiance.
         </p>
         <div
           className="flex flex-col items-center max-w-xs mx-auto gap-4 sm:max-w-none  sm:justify-center sm:flex-row sm:inline-flex"
