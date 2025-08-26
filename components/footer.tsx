@@ -8,7 +8,7 @@ import Link from 'next/link';
 export const Footer = () => {
     const links = [
         {
-            href: 'https://twitter.com/sameer_faridi_',
+            href: 'https://x.com/faridi_sameer_',
             icon: <XIcon className='h-8 w-8'/>
         },
         {
