@@ -8,13 +8,13 @@ export const Companys = () => {
       {
       logo: "/kurmato_logo_shott.webp",
       name: "Kurmato (1 Year)",
-      subs: "Oct 2022 - Sep 2023",
+      subs: "October 2022 - September 2023",
       link: "https://kurmato.com/"
     },
     {
       logo: "/byte_logo_shott.webp",
-      name: "Byte Digital (2 Year+)",
-      subs: "Set 23 - now",
+      name: "Byte Digital (2 Year)",
+      subs: "September 2023 - now",
       link: "https://byte-digital.com.au/"
     },
   
